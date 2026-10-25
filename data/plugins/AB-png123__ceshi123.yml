@@ -1,6 +1,0 @@
-url: https://github.com/AB-png123/ceshi123
-name: AB-png123/ceshi123
-category: theme
-description:
-  en: 'Imports wallpapers that Hao Wallpaper has downloaded into the DSH wallpaper engine on startup, incrementally and idempotently (macOS only).'
-  zh: 'DSH 启动时把 Hao Wallpaper 新下载的壁纸增量导入 DSH 壁纸引擎（幂等，仅 macOS）。'
